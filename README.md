@@ -1,2 +1,3 @@
 # learner-space
-This is my first repositories 
+This is my first repository
+
